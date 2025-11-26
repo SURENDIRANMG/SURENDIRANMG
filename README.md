@@ -4,7 +4,7 @@
 - 💻 I have very much interest in Netwokrings,Cyber Forensics
 - 😺 Currently Learning My intreset
 -  Reach Me At :
- <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/surendiranmg) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/Surendharx/)
+ <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/surendiranmg/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/Surendharx/)
 
  ### I code in
  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v2.png" alt="html-5--v2"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
